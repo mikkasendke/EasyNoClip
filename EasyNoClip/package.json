@@ -1,19 +1,17 @@
 {
   "type": "module",
   "name": "easynoclip",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "server.js",
-  "repository": {
-  },
-  "keywords": [
-
-  ],
-  
+  "repository": {},
+  "keywords": [],
   "author": "Swox",
   "license": "MIT License",
-  "bugs": {
-    
+  "bugs": {},
+  "devDependencies": {
+    "@altv/types-client": "^2.8.9",
+    "@altv/types-natives": "^1.5.4",
+    "@altv/types-server": "^2.9.2"
   }
-  
 }
